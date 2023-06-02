@@ -44,7 +44,7 @@ var (
 		"Access-Control-Request-Method":  true,
 	}
 	DEL_LOCATION_DOMAINS = []string{
-		"https://cn.bing.com",
+		"https://tw.bing.com",
 		"https://www.bing.com",
 	}
 	USER_TOKEN_COOKIE_NAME = "_U"
